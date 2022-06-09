@@ -1,2 +1,9 @@
 First 
-npm install // in react
+npm install // in reactProject
+num run start
+
+Second 
+npm install // techbackend
+nodemon index.js
+
+turn on monogdb
